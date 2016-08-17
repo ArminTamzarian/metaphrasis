@@ -1,0 +1,16 @@
+-------------
+Version 0.1.2
+-------------
+- Performance enhancements from Tantric.
+	- RGBA8 conversion optimization.
+- 24% speed increase by refactoring color bit shifting code into simpler bit shifting macros.
+
+-------------
+Version 0.1.1
+-------------
+- Fixed (#1): http://code.google.com/p/metaphrasis/issues/detail?id=1
+
+-------------
+Version 0.1.0
+-------------
+- Initial Release
